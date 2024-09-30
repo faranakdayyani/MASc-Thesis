@@ -1,0 +1,1 @@
+Python scripts for processing sensor data to extract features. Initially, the hourly scripts must be run to generate hourly data, which serves as input for the daily scripts. Subsequently, the daily scripts are executed to produce the final features. For FLIRT features, only the ...-flirt.py file is required.
